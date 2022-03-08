@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishitmath
+- 👋 Hi, I’m @nishitmathur
 - 👀 I’m interested in business analytics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning projects
